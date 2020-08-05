@@ -1,3 +1,9 @@
+![](https://komarev.com/ghpvc/?username=AryanSharma5&label=views&style=plastic&color=brightgreen)
+![GitHub repo size](https://img.shields.io/github/repo-size/AryanSharma5/august-leetcode?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/AryanSharma5/august-leetcode?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/AryanSharma5/august-leetcode?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AryanSharma5/august-leetcode?color=red&style=plastic)
+
 ### Hi there, I'm Aryan 👋
 
 ## I'm a Final year Computer Science Engineering Student!
@@ -23,7 +29,6 @@
 <img align="left" alt="docker" height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg"/>
 <img align="left" alt="pandas" height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg"/>
 <img align="left" alt="tableau" height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg"/>
-
 <br/>
 <br/>
 <br/>
