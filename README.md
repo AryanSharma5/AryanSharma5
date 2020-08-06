@@ -1,8 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=AryanSharma5&label=views&style=plastic&color=brightgreen)
-![GitHub repo size](https://img.shields.io/github/repo-size/AryanSharma5/august-leetcode?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/AryanSharma5/august-leetcode?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/AryanSharma5/august-leetcode?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/AryanSharma5/august-leetcode?color=red&style=plastic)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/AryanSharma5)
 
 ### Hi there, I'm Aryan 👋
 
@@ -18,7 +15,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 <img align="left" alt="python" height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
 <img align="left" alt="c" height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"/>
 <img align="left" alt="html5" height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg"/>
@@ -43,6 +40,30 @@
 <br/>
 <br/>
 <img align="left" width="320px" alt="AryanSharma's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSharma5&hide_border=true&theme=highcontrast"/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+### Latest Repository Stats
+
+![GitHub repo size](https://img.shields.io/github/repo-size/AryanSharma5/august-leetcode?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/AryanSharma5/august-leetcode?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/AryanSharma5/august-leetcode?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AryanSharma5/august-leetcode?color=red&style=plastic)
+<br/>
+<br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AryanSharma5&repo=august-leetcode)](https://github.com/AryanSharma5/august-leetcode)
 
 [twitter]: https://twitter.com/iMShAryan
 [linkedin]: https://www.linkedin.com/in/aryan-sharma101/
