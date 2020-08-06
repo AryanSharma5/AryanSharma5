@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=AryanSharma5&label=views&style=plastic&color=brightgreen)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/AryanSharma5)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 ### Hi there, I'm Aryan 👋
 
