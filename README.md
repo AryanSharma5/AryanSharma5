@@ -29,6 +29,9 @@
 <img align="left" alt="tableau" height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg"/>
 <br/>
 <br/>
+
+### Github Stats
+
 <br/>
 <br/>
 <img align="left" width="500px" alt="AryanSharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AryanSharma5&count_private=true&theme=highcontrast&show_icons=true&hide_border=true"/>
