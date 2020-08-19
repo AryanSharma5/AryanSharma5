@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on machine learning and coding 💻.
 - 🌱 I’m currently learning everything 🤣
-- 💬 Ask me about machine learning, python, sql, tableau, sas.
+- 💬 Ask me about Machine Learning, Python, SQL, Tableau, SAS.
 - ⚡ Fun fact: I love to sketch and play 🏏 cricket.
 - 🤝 You can find me on [<img alt="Aryan | Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter], or on
 [<img alt="Aryan | LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
