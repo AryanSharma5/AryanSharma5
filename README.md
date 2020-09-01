@@ -61,13 +61,13 @@
 
 ### Latest Repository Stats
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AryanSharma5/august-leetcode?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/AryanSharma5/august-leetcode?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/AryanSharma5/august-leetcode?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/AryanSharma5/august-leetcode?color=red&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/AryanSharma5/september-leetcode?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/AryanSharma5/september-leetcode?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/AryanSharma5/september-leetcode?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AryanSharma5/september-leetcode?color=red&style=plastic)
 <br/>
 <br/>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AryanSharma5&repo=august-leetcode)](https://github.com/AryanSharma5/august-leetcode)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AryanSharma5&repo=september-leetcode)](https://github.com/AryanSharma5/september-leetcode)
 
 [twitter]: https://twitter.com/iMShAryan
 [linkedin]: https://www.linkedin.com/in/aryan-sharma101/
