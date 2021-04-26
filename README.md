@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on machine learning and coding 💻.
 - 🌱 I’m currently learning everything 🤣
-- 💬 Ask me about Machine Learning, Python, SQL, Tableau, SAS.
+- 💬 Ask me about Machine Learning, Python, SQL, Flask, Django, Tableau, SAS.
 - ⚡ Fun fact: I love to sketch and play 🏏 cricket.
 - 🤝 You can find me on [<img alt="Aryan | Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter], or on
 [<img alt="Aryan | LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -59,15 +59,15 @@
 <br/>
 <br/>
 
-### Latest Repository Stats
+### Popular Repository Stats
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AryanSharma5/september-leetcode?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/AryanSharma5/september-leetcode?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/AryanSharma5/september-leetcode?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/AryanSharma5/september-leetcode?color=red&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/AryanSharma5/WhatsApp-Clone?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/AryanSharma5/WhatsApp-Clone?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/AryanSharma5/WhatsApp-Clone?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AryanSharma5/WhatsApp-Clone?color=red&style=plastic)
 <br/>
 <br/>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AryanSharma5&repo=september-leetcode)](https://github.com/AryanSharma5/september-leetcode)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AryanSharma5&repo=WhatsApp-Clone&theme=highcontrast)](https://github.com/AryanSharma5/WhatsApp-Clone)
 
 [twitter]: https://twitter.com/iMShAryan
 [linkedin]: https://www.linkedin.com/in/aryan-sharma101/
